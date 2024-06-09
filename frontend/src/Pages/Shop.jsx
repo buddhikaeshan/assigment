@@ -42,7 +42,7 @@ function Shop() {
 
                         <section id="selling-products" className="col-md-9 product-store">
                             <div className="container">
-                                <ul className="list-unstyled tabs">
+                                {/* <ul className="list-unstyled tabs">
                                     <li data-tab-target="#all" className="active tab">All</li>
                                     <li data-tab-target="#shoes" className="tab">Shoes</li>
                                     <li data-tab-target="#tshirts" className="tab">Tshirts</li>
@@ -51,7 +51,7 @@ function Shop() {
                                     <li data-tab-target="#outer" className="tab">Outer</li>
                                     <li data-tab-target="#jackets" className="tab">Jackets</li>
                                     <li data-tab-target="#accessories" className="tab">Accessories</li>
-                                </ul>
+                                </ul> */}
                                
                                 <div className="tab-content">
                   <div id="all" data-tab-content className="active">
@@ -84,7 +84,7 @@ function Shop() {
                             </div>
                         </section>
 
-                        <aside className="col-md-3">
+                        {/* <aside className="col-md-3">
                             <div className="sidebar">
                                 <div className="widget-menu widgets">
                                     <div className="widget-search-bar">
@@ -152,7 +152,7 @@ function Shop() {
                                     </ul>
                                 </div>
                             </div>
-                        </aside>
+                        </aside> */}
 
                     </div>
                 </div>
