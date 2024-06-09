@@ -9,7 +9,7 @@ function Footer() {
                         <div className="d-flex flex-wrap justify-content-between row">
                             <div className="col-sm-6 col-lg-3 col-md-6">
                                 <div className="footer-menu">
-                                    <h5 className="widget-title">Ultras</h5>
+                                    <h5 className="widget-title">Iconics</h5>
                                     <ul className="list-unstyled menu-list">
                                         <li className="menu-item">
                                             <a href="about.html">About us</a>
